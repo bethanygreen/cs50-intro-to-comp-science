@@ -9,7 +9,7 @@ char rotate(char letter, int key);
 
 int main(int argc, string argv[])
 {
-    // Checl for correct number of command line arguments, ie 2
+    // Check for correct number of command line arguments, ie 2
     if (argc != 2)
     {
         printf("Usage: ./caesar key\n");
